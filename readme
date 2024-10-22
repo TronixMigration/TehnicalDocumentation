@@ -16,7 +16,7 @@ The migration can be conducted with the wallet which you usually use to access t
 
 The migration procedure is the same for any other non-custodial wallets which you use to store ERC20 tokens, like old ERC20 TRX. In some rare cases, your wallet could not support the migration, because some wallets may not support the new Tron Mainnet. In this case, you will receive your ERC20 TRX back from the migration contract. This is how you will know that your wallet is not supporting migration. If the wallet support TRC20 tokens then it supports the migration.
 
-To perform the migration, first, access your wallet to see your Tron balance on the list of Ethereum tokens. Now send your old ERC20 TRX tokens to the migration smart contract address which is `0x209FDb3bf671fCD1cF65562b88966AA6e843a427`. The Migration smart contract address begins with the `0x49` and ends with the `9050`, please check that it is correct. 
+To perform the migration, first, access your wallet to see your Tron balance on the list of Ethereum tokens. Now send your old ERC20 TRX tokens to the migration smart contract address which is `0x209FDb3bf671fCD1cF65562b88966AA6e843a427`. The Migration smart contract address begins with the `0x20` and ends with the `a427`, please check that it is correct. 
 
 For the amount choose to send the entire TRX balance, otherwise, the migration process will not start. The contract is waiting for the whole balance to be received before performing the migration to save on high ETH fees which are covered by Tron Foundation. Users just need to pay a regular transaction fee to send the tokens to the migration contract address.
 
