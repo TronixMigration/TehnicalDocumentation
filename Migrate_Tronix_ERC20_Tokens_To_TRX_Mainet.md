@@ -2,8 +2,6 @@
 
 We have started migrating Tron tokens from the old ERC20 standard to the new TRX20 (also known as TRC20) standard. New Tron tokens serve an important role as native tokens used on the Tron Mainnet. Tron holders should swap their old legacy ERC20 TRX for the new TRC20 using a migration contract.
 
-![image](https://github.com/user-attachments/assets/fd7a9fea-17f1-47e6-ae76-6479fd9a751d)
-
 > This is a 1:1 swap, which means that anyone who holds the ERC20 token will receive the same amount of TRX20 tokens. There is no reduction in the token supply.
 
 ## How to migrate TRX tokens from the Ethereum tokens to the Tron Mainnet?
