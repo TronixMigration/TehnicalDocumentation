@@ -3,6 +3,7 @@
 We have started migrating Tron tokens from the old ERC20 standard to the new TRX20 (also known as TRC20) standard. New Tron tokens serve an important role as native tokens used on the Tron Mainnet. Tron holders should swap their old legacy ERC20 TRX for the new TRC20 using a migration contract.
 
 > This is a 1:1 swap, which means that anyone who holds the ERC20 token will receive the same amount of TRX20 tokens. There is no reduction in the token supply.
+> 
 
 ## How to migrate TRX tokens from the Ethereum tokens to the Tron Mainnet?
 
@@ -11,6 +12,7 @@ For any remaining TRX ERC20 tokens that have not yet been migrated, we have deci
 The migration smart contract, created solely for migration purposes, allows you to migrate your TRX tokens without connecting to any external platforms. The migration smart contract address is **open-source**, meaning the code can be checked by anyone.
 
 Using the migration contract requires users to **pay the gas fee** on the Ethereum Blockchain. This means every user who wants to perform migration needs to have ETH in their wallet. The migration process is similar to any other transaction on the Ethereum Blockchain, and the gas fee is the same as any other transaction. We recommend choosing the average (normal) gas fee to avoid any inconvenience.
+![0_q_-kNry54twqxSQR](https://github.com/user-attachments/assets/0b77fb0a-c083-408d-b337-9141f70b5f8f)
 
 ## Steps to Start Migration Process
 
